@@ -22,4 +22,5 @@ $RECYCLE.BIN/
 # Operating System Files
 # =========================
 data/*
+*.csv
 .ipynb_checkpoints/*
